@@ -1,0 +1,17 @@
+{"results":[{"columns":[{"name":"MOVIE_ID","type":"VARCHAR2"},{"name":"DURATION","type":"NUMBER"},{"name":"TITLE","type":"VARCHAR2"},{"name":"PG_RATING","type":"NUMBER"},{"name":"STORY","type":"VARCHAR2"},{"name":"INDUSTRY","type":"VARCHAR2"},{"name":"PRICE","type":"NUMBER"}],"items":
+[
+{"movie_id":"M006","duration":3,"title":"James Bond: Skyfall","pg_rating":4.1,"story":"Secret agent adventures","industry":"Hollywood","price":16}
+,{"movie_id":"M007","duration":3,"title":"Gone Girl","pg_rating":3.6,"story":"Twists and turns","industry":"Hollywood","price":12}
+,{"movie_id":"M008","duration":3,"title":"The Notebook","pg_rating":4.3,"story":"Love story","industry":"Hollywood","price":14}
+,{"movie_id":"M009","duration":3,"title":"Toy Story","pg_rating":4.7,"story":"Toy adventures","industry":"Hollywood","price":11}
+,{"movie_id":"M010","duration":3,"title":"Gone with the Wind","pg_rating":4,"story":"Epic romance","industry":"Hollywood","price":16}
+,{"movie_id":"M011","duration":3,"title":"Dilwale Dulhania Le Jayenge","pg_rating":4.5,"story":"Romantic musical","industry":"Bollywood"}
+,{"movie_id":"M012","duration":3,"title":"Na Maloom Afraad","pg_rating":3.9,"story":"Hilarious situations","industry":"Lollywood"}
+,{"movie_id":"M013","duration":3}
+,{"movie_id":"M001","duration":3,"title":"Mission: Impossible","pg_rating":4.5,"story":"Action-packed thriller about a secret agent.","industry":"Hollywood","price":11}
+,{"movie_id":"M002","duration":3,"title":"Frozen","pg_rating":3.8,"story":"Heartwarming animated adventure for the family.","industry":"Hollywood","price":9}
+,{"movie_id":"M003","duration":3,"title":"Notting Hill","pg_rating":4.2,"story":"Romantic comedy set in a charming small town.","industry":"Hollywood","price":8}
+,{"movie_id":"M004","duration":3,"title":"The Lord of the Rings","pg_rating":3.5,"story":"Epic fantasy journey through a magical world.","industry":"Hollywood","price":13}
+,{"movie_id":"M005","duration":3,"title":"Interstellar","pg_rating":4,"story":"Gripping science fiction tale of exploration and discovery.","industry":"Hollywood","price":10}
+,{"movie_id":"M014","duration":3,"title":"Mulan","pg_rating":3.4,"story":"Bollywood","industry":"asd","price":11}
+]}]}

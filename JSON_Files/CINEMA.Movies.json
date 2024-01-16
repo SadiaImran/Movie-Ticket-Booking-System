@@ -1,0 +1,375 @@
+[{
+  "_id": {
+    "$oid": "658c511030a842998b848eb4"
+  },
+  "MOVIE_ID": "M001",
+  "DURATION": 2,
+  "TITLE": "Mission: Impossible",
+  "PG_RATING": 4.5,
+  "story": "Action-packed thriller about a secret agent.",
+  "industry": "Hollywood",
+  "PRICE": 10.99
+},
+{
+  "_id": {
+    "$oid": "658c511030a842998b848eb5"
+  },
+  "MOVIE_ID": "M002",
+  "DURATION": 2,
+  "TITLE": "Frozen",
+  "PG_RATING": 3.8,
+  "story": "Heartwarming animated adventure for the family.",
+  "industry": "Hollywood",
+  "PRICE": 8.99
+},
+{
+  "_id": {
+    "$oid": "658c511030a842998b848eb6"
+  },
+  "MOVIE_ID": "M003",
+  "DURATION": 1,
+  "TITLE": "Notting Hill",
+  "PG_RATING": 4.2,
+  "story": "Romantic comedy set in a charming small town.",
+  "industry": "Hollywood",
+  "PRICE": 7.99
+},
+{
+  "_id": {
+    "$oid": "658c511030a842998b848eb7"
+  },
+  "MOVIE_ID": "M004",
+  "DURATION": 3,
+  "TITLE": "The Lord of the Rings",
+  "PG_RATING": 3.5,
+  "story": "Epic fantasy journey through a magical world.",
+  "industry": "Hollywood",
+  "PRICE": 12.99
+},
+{
+  "_id": {
+    "$oid": "658c511030a842998b848eb8"
+  },
+  "MOVIE_ID": "M005",
+  "DURATION": 2,
+  "TITLE": "Interstellar",
+  "PG_RATING": 4,
+  "story": "Gripping science fiction tale of exploration and discovery.",
+  "industry": "Hollywood",
+  "PRICE": 9.99
+},
+{
+  "_id": {
+    "$oid": "658c511030a842998b848eb9"
+  },
+  "MOVIE_ID": "M006",
+  "DURATION": 2,
+  "TITLE": "James Bond: Skyfall",
+  "PG_RATING": 4.1,
+  "story": "Thrilling action in the world of spies.",
+  "industry": "Hollywood",
+  "PRICE": 14.99
+},
+{
+  "_id": {
+    "$oid": "658c511030a842998b848eba"
+  },
+  "MOVIE_ID": "M007",
+  "DURATION": 1,
+  "TITLE": "Gone Girl",
+  "PG_RATING": "10",
+  "story": "Intriguing mystery set in a small town.",
+  "industry": "Hollywood",
+  "PRICE": "10"
+},
+{
+  "_id": {
+    "$oid": "658c511030a842998b848ebb"
+  },
+  "MOVIE_ID": "M008",
+  "DURATION": 2,
+  "TITLE": "The Notebook",
+  "PG_RATING": 4.3,
+  "story": "Heartfelt drama about love and sacrifice.",
+  "industry": "Hollywood",
+  "PRICE": "13"
+},
+{
+  "_id": {
+    "$oid": "658c511030a842998b848ebc"
+  },
+  "MOVIE_ID": "M009",
+  "DURATION": 2,
+  "TITLE": "Toy Story",
+  "PG_RATING": 4.7,
+  "story": "Animated comedy for the whole family.",
+  "industry": "Hollywood",
+  "PRICE": 10.99
+},
+{
+  "_id": {
+    "$oid": "658c511030a842998b848ebd"
+  },
+  "MOVIE_ID": "M010",
+  "DURATION": 3,
+  "TITLE": "Gone with the Wind",
+  "PG_RATING": 4,
+  "story": "Classic tale of love, betrayal, and revenge.",
+  "industry": "Hollywood",
+  "PRICE": "11"
+},
+{
+  "_id": {
+    "$oid": "658c511030a842998b848ebf"
+  },
+  "MOVIE_ID": "M012",
+  "DURATION": 1,
+  "TITLE": "Na Maloom Afraad",
+  "PG_RATING": 3.9,
+  "story": "Lollywood comedy set in a Pakistani village.",
+  "industry": "Lollywood",
+  "PRICE": "22"
+},
+{
+  "_id": {
+    "$oid": "658e564e56973a97508a350e"
+  },
+  "MOVIE_ID": "M013",
+  "DURATION": 2,
+  "TITLE": "The Matrix",
+  "PG_RATING": 4.3,
+  "story": "Mind-bending science fiction.",
+  "industry": "Hollywood",
+  "PRICE": 11.99
+},
+{
+  "_id": {
+    "$oid": "658e564e56973a97508a350f"
+  },
+  "MOVIE_ID": "M014",
+  "DURATION": 1,
+  "TITLE": "Inception",
+  "PG_RATING": 4.8,
+  "story": "Dream within a dream.",
+  "industry": "Hollywood",
+  "PRICE": 13.99
+},
+{
+  "_id": {
+    "$oid": "658e564e56973a97508a3510"
+  },
+  "MOVIE_ID": "M015",
+  "DURATION": 3,
+  "TITLE": "Sholay",
+  "PG_RATING": 4.6,
+  "story": "Bollywood classic action.",
+  "industry": "Bollywood",
+  "PRICE": "15"
+},
+{
+  "_id": {
+    "$oid": "658e564e56973a97508a3511"
+  },
+  "MOVIE_ID": "M016",
+  "DURATION": 2,
+  "TITLE": "Titanic",
+  "PG_RATING": 4.1,
+  "story": "Epic romance and disaster.",
+  "industry": "Hollywood",
+  "PRICE": 12.99
+},
+{
+  "_id": {
+    "$oid": "658e564e56973a97508a3512"
+  },
+  "MOVIE_ID": "M017",
+  "DURATION": 3,
+  "TITLE": "Avatar",
+  "PG_RATING": 4,
+  "story": "Journey to the alien world of Pandora.",
+  "industry": "Hollywood",
+  "PRICE": 14.99
+},
+{
+  "_id": {
+    "$oid": "658e564e56973a97508a3513"
+  },
+  "MOVIE_ID": "M018",
+  "DURATION": 2,
+  "TITLE": "The Dark Knight",
+  "PG_RATING": 4.7,
+  "story": "Gotham City's vigilante superhero.",
+  "industry": "Hollywood",
+  "PRICE": 15.99
+},
+{
+  "_id": {
+    "$oid": "658e564e56973a97508a3514"
+  },
+  "MOVIE_ID": "M019",
+  "DURATION": 1,
+  "TITLE": "Jurassic Park",
+  "PG_RATING": 4.2,
+  "story": "Adventure with cloned dinosaurs.",
+  "industry": "Hollywood",
+  "PRICE": 10.99
+},
+{
+  "_id": {
+    "$oid": "658e564e56973a97508a3515"
+  },
+  "MOVIE_ID": "M020",
+  "DURATION": 2,
+  "TITLE": "Interstellar 2",
+  "PG_RATING": 4.5,
+  "story": "Continuation of the gripping space exploration tale.",
+  "industry": "Hollywood",
+  "PRICE": 13.99
+},
+{
+  "_id": {
+    "$oid": "658e569e56973a97508a3516"
+  },
+  "java": {
+    "net": {
+      "UnknownHostException;": "java.sql.SQLException;"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "658e569e56973a97508a3517"
+  }
+},
+{
+  "_id": {
+    "$oid": "658e569e56973a97508a3518"
+  }
+},
+{
+  "_id": {
+    "$oid": "658e569e56973a97508a3519"
+  },
+  "java": {
+    "net": {
+      "UnknownHostException;": "class"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "658e569e56973a97508a351a"
+  }
+},
+{
+  "_id": {
+    "$oid": "658e569e56973a97508a351b"
+  }
+},
+{
+  "_id": {
+    "$oid": "658e569e56973a97508a351c"
+  }
+},
+{
+  "_id": {
+    "$oid": "658e569e56973a97508a351d"
+  }
+},
+{
+  "_id": {
+    "$oid": "658e569e56973a97508a351e"
+  }
+},
+{
+  "_id": {
+    "$oid": "658e569e56973a97508a351f"
+  }
+},
+{
+  "_id": {
+    "$oid": "658e569e56973a97508a3520"
+  }
+},
+{
+  "_id": {
+    "$oid": "658e569e56973a97508a3521"
+  }
+},
+{
+  "_id": {
+    "$oid": "658e569e56973a97508a3522"
+  }
+},
+{
+  "_id": {
+    "$oid": "658e569e56973a97508a3523"
+  }
+},
+{
+  "_id": {
+    "$oid": "658e569e56973a97508a3524"
+  }
+},
+{
+  "_id": {
+    "$oid": "658e569e56973a97508a3525"
+  }
+},
+{
+  "_id": {
+    "$oid": "658e569e56973a97508a3526"
+  }
+},
+{
+  "_id": {
+    "$oid": "658e569e56973a97508a3527"
+  }
+},
+{
+  "_id": {
+    "$oid": "658e569e56973a97508a3528"
+  }
+},
+{
+  "_id": {
+    "$oid": "658e569e56973a97508a3529"
+  }
+},
+{
+  "_id": {
+    "$oid": "658e569e56973a97508a352a"
+  }
+},
+{
+  "_id": {
+    "$oid": "658e569e56973a97508a352b"
+  }
+},
+{
+  "_id": {
+    "$oid": "658e569e56973a97508a352c"
+  }
+},
+{
+  "_id": {
+    "$oid": "658e569e56973a97508a352d"
+  }
+},
+{
+  "_id": {
+    "$oid": "658e569e56973a97508a352e"
+  }
+},
+{
+  "_id": {
+    "$oid": "658e75b459aecf0f5de7315e"
+  },
+  "MOVIE_ID": "M021",
+  "DURATION": "3",
+  "TITLE": "Barbie",
+  "PG_RATING": "3.5",
+  "story": "A story about a girl.",
+  "industry": "Hollywood",
+  "PRICE": "13"
+}]

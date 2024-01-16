@@ -1,0 +1,450 @@
+[{
+  "_id": {
+    "$oid": "658c53f830a842998b848ee3"
+  },
+  "Show_ID": "S001",
+  "Seat_Number": "S1",
+  "Status": "Available",
+  "Booking_ID": null
+},
+{
+  "_id": {
+    "$oid": "658c53f830a842998b848ee4"
+  },
+  "Show_ID": "S001",
+  "Seat_Number": "S2",
+  "Status": "Booked",
+  "Booking_ID": "B001"
+},
+{
+  "_id": {
+    "$oid": "658c53f830a842998b848ee5"
+  },
+  "Show_ID": "S002",
+  "Seat_Number": "S1",
+  "Status": "Reserved",
+  "Booking_ID": "B002"
+},
+{
+  "_id": {
+    "$oid": "658c53f830a842998b848ee6"
+  },
+  "Show_ID": "S002",
+  "Seat_Number": "S2",
+  "Status": "Available",
+  "Booking_ID": null
+},
+{
+  "_id": {
+    "$oid": "658c53f830a842998b848ee7"
+  },
+  "Show_ID": "S003",
+  "Seat_Number": "S1",
+  "Status": "Booked",
+  "Booking_ID": "B003"
+},
+{
+  "_id": {
+    "$oid": "658c53f830a842998b848ee8"
+  },
+  "Show_ID": "S001",
+  "Seat_Number": "S3",
+  "Status": "Available",
+  "Booking_ID": null
+},
+{
+  "_id": {
+    "$oid": "658c53f830a842998b848ee9"
+  },
+  "Show_ID": "S001",
+  "Seat_Number": "S4",
+  "Status": "Reserved",
+  "Booking_ID": null
+},
+{
+  "_id": {
+    "$oid": "658c53f830a842998b848eea"
+  },
+  "Show_ID": "S002",
+  "Seat_Number": "S3",
+  "Status": "Booked",
+  "Booking_ID": "B007"
+},
+{
+  "_id": {
+    "$oid": "658c53f830a842998b848eeb"
+  },
+  "Show_ID": "S002",
+  "Seat_Number": "S4",
+  "Status": "Available",
+  "Booking_ID": null
+},
+{
+  "_id": {
+    "$oid": "658c53f830a842998b848eec"
+  },
+  "Show_ID": "S003",
+  "Seat_Number": "S2",
+  "Status": "Available",
+  "Booking_ID": null
+},
+{
+  "_id": {
+    "$oid": "658c53f830a842998b848eed"
+  },
+  "Show_ID": "S003",
+  "Seat_Number": "S3",
+  "Status": "Booked",
+  "Booking_ID": "B009"
+},
+{
+  "_id": {
+    "$oid": "658d197448f79c57986fd1ca"
+  },
+  "SEAT_NUMBER": "S1",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S006"
+},
+{
+  "_id": {
+    "$oid": "658d197448f79c57986fd1cb"
+  },
+  "SEAT_NUMBER": "S3",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S006"
+},
+{
+  "_id": {
+    "$oid": "658d197448f79c57986fd1cc"
+  },
+  "SEAT_NUMBER": "S1",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S007"
+},
+{
+  "_id": {
+    "$oid": "658d197448f79c57986fd1cd"
+  },
+  "SEAT_NUMBER": "S1",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S008"
+},
+{
+  "_id": {
+    "$oid": "658d197448f79c57986fd1ce"
+  },
+  "SEAT_NUMBER": "S2",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S009"
+},
+{
+  "_id": {
+    "$oid": "658d197448f79c57986fd1cf"
+  },
+  "SEAT_NUMBER": "S1",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S010"
+},
+{
+  "_id": {
+    "$oid": "658d197448f79c57986fd1d0"
+  },
+  "SEAT_NUMBER": "S2",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S011"
+},
+{
+  "_id": {
+    "$oid": "658d197448f79c57986fd1d1"
+  },
+  "SEAT_NUMBER": "S2",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S012"
+},
+{
+  "_id": {
+    "$oid": "658d197448f79c57986fd1d2"
+  },
+  "SEAT_NUMBER": "S2",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S013"
+},
+{
+  "_id": {
+    "$oid": "658d197448f79c57986fd1d3"
+  },
+  "SEAT_NUMBER": "S2",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S014"
+},
+{
+  "_id": {
+    "$oid": "658d197448f79c57986fd1d4"
+  },
+  "SEAT_NUMBER": "S1",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S016"
+},
+{
+  "_id": {
+    "$oid": "658d197448f79c57986fd1d5"
+  },
+  "SEAT_NUMBER": "S1",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S017"
+},
+{
+  "_id": {
+    "$oid": "658d197448f79c57986fd1d6"
+  },
+  "SEAT_NUMBER": "S3",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S018"
+},
+{
+  "_id": {
+    "$oid": "658e66ac56973a97508a354e"
+  },
+  "SEAT_NUMBER": "S2",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S006"
+},
+{
+  "_id": {
+    "$oid": "658e66ac56973a97508a354f"
+  },
+  "SEAT_NUMBER": "S4",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S006"
+},
+{
+  "_id": {
+    "$oid": "658e66ac56973a97508a3550"
+  },
+  "SEAT_NUMBER": "S5",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S007"
+},
+{
+  "_id": {
+    "$oid": "658e66ac56973a97508a3551"
+  },
+  "SEAT_NUMBER": "S6",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S008"
+},
+{
+  "_id": {
+    "$oid": "658e66ac56973a97508a3552"
+  },
+  "SEAT_NUMBER": "S1",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S009"
+},
+{
+  "_id": {
+    "$oid": "658e66ac56973a97508a3553"
+  },
+  "SEAT_NUMBER": "S2",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S010"
+},
+{
+  "_id": {
+    "$oid": "658e66ac56973a97508a3554"
+  },
+  "SEAT_NUMBER": "S5",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S011"
+},
+{
+  "_id": {
+    "$oid": "658e66ac56973a97508a3555"
+  },
+  "SEAT_NUMBER": "S1",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S012"
+},
+{
+  "_id": {
+    "$oid": "658e66ac56973a97508a3556"
+  },
+  "SEAT_NUMBER": "S3",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S013"
+},
+{
+  "_id": {
+    "$oid": "658e66ac56973a97508a3557"
+  },
+  "SEAT_NUMBER": "S1",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S014"
+},
+{
+  "_id": {
+    "$oid": "658e66ac56973a97508a3558"
+  },
+  "SEAT_NUMBER": "S1",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S016"
+},
+{
+  "_id": {
+    "$oid": "658e66ac56973a97508a3559"
+  },
+  "SEAT_NUMBER": "S3",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S017"
+},
+{
+  "_id": {
+    "$oid": "658e66ac56973a97508a355a"
+  },
+  "SEAT_NUMBER": "S5",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S018"
+},
+{
+  "_id": {
+    "$oid": "658e670256973a97508a355b"
+  },
+  "SEAT_NUMBER": "S1",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S006"
+},
+{
+  "_id": {
+    "$oid": "658e670256973a97508a355c"
+  },
+  "SEAT_NUMBER": "S3",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S006"
+},
+{
+  "_id": {
+    "$oid": "658e670256973a97508a355d"
+  },
+  "SEAT_NUMBER": "S1",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S007"
+},
+{
+  "_id": {
+    "$oid": "658e670256973a97508a355e"
+  },
+  "SEAT_NUMBER": "S1",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S008"
+},
+{
+  "_id": {
+    "$oid": "658e670256973a97508a355f"
+  },
+  "SEAT_NUMBER": "S2",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S009"
+},
+{
+  "_id": {
+    "$oid": "658e670256973a97508a3560"
+  },
+  "SEAT_NUMBER": "S1",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S010"
+},
+{
+  "_id": {
+    "$oid": "658e670256973a97508a3561"
+  },
+  "SEAT_NUMBER": "S2",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S011"
+},
+{
+  "_id": {
+    "$oid": "658e670256973a97508a3562"
+  },
+  "SEAT_NUMBER": "S2",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S012"
+},
+{
+  "_id": {
+    "$oid": "658e670256973a97508a3563"
+  },
+  "SEAT_NUMBER": "S2",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S013"
+},
+{
+  "_id": {
+    "$oid": "658e670256973a97508a3564"
+  },
+  "SEAT_NUMBER": "S2",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S014"
+},
+{
+  "_id": {
+    "$oid": "658e670256973a97508a3565"
+  },
+  "SEAT_NUMBER": "S1",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S016"
+},
+{
+  "_id": {
+    "$oid": "658e670256973a97508a3566"
+  },
+  "SEAT_NUMBER": "S1",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S017"
+},
+{
+  "_id": {
+    "$oid": "658e670256973a97508a3567"
+  },
+  "SEAT_NUMBER": "S3",
+  "STATUS": "Available",
+  "BOOKING_ID": null,
+  "SHOW_ID": "S018"
+}]

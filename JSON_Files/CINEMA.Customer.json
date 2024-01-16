@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "658c53df30a842998b848ecd"
+  },
+  "customer_ID": "C001",
+  "customer_Name": "John Doe",
+  "customer_email": "john.doe@example.com"
+},
+{
+  "_id": {
+    "$oid": "658c53df30a842998b848ece"
+  },
+  "customer_ID": "C002",
+  "customer_Name": "Jane Smith",
+  "customer_email": "jane.smith@example.com"
+},
+{
+  "_id": {
+    "$oid": "658c53df30a842998b848ecf"
+  },
+  "customer_ID": "C003",
+  "customer_Name": "Bob Johnson",
+  "customer_email": "bob.johnson@example.com"
+},
+{
+  "_id": {
+    "$oid": "658c53df30a842998b848ed0"
+  },
+  "customer_ID": "C004",
+  "customer_Name": "Alice Brown",
+  "customer_email": "alice.brown@example.com"
+},
+{
+  "_id": {
+    "$oid": "658c53df30a842998b848ed1"
+  },
+  "customer_ID": "C005",
+  "customer_Name": "Charlie Davis",
+  "customer_email": "charlie.davis@example.com"
+},
+{
+  "_id": {
+    "$oid": "658c53df30a842998b848ed2"
+  },
+  "customer_ID": "C006",
+  "customer_Name": "Eva White",
+  "customer_email": "eva.white@example.com"
+},
+{
+  "_id": {
+    "$oid": "658c53df30a842998b848ed3"
+  },
+  "customer_ID": "C007",
+  "customer_Name": "David Miller",
+  "customer_email": "david.miller@example.com"
+},
+{
+  "_id": {
+    "$oid": "658c53df30a842998b848ed4"
+  },
+  "customer_ID": "C008",
+  "customer_Name": "Grace Turner",
+  "customer_email": "grace.turner@example.com"
+},
+{
+  "_id": {
+    "$oid": "658c53df30a842998b848ed5"
+  },
+  "customer_ID": "C009",
+  "customer_Name": "Michael Harris",
+  "customer_email": "michael.harris@example.com"
+},
+{
+  "_id": {
+    "$oid": "658c53df30a842998b848ed6"
+  },
+  "customer_ID": "C010",
+  "customer_Name": "Sophia Lee",
+  "customer_email": "sophia.lee@example.com"
+}]

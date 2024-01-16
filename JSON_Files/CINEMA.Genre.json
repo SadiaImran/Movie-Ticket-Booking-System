@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "658c53c130a842998b848ec1"
+  },
+  "GENRE_ID": "G001",
+  "GENRE_NAME": "Action"
+},
+{
+  "_id": {
+    "$oid": "658c53c130a842998b848ec2"
+  },
+  "GENRE_ID": "G002",
+  "GENRE_NAME": "Animation"
+},
+{
+  "_id": {
+    "$oid": "658c53c130a842998b848ec3"
+  },
+  "GENRE_ID": "G003",
+  "GENRE_NAME": "Romantic Comedy"
+},
+{
+  "_id": {
+    "$oid": "658c53c130a842998b848ec4"
+  },
+  "GENRE_ID": "G004",
+  "GENRE_NAME": "Fantasy"
+},
+{
+  "_id": {
+    "$oid": "658c53c130a842998b848ec5"
+  },
+  "GENRE_ID": "G005",
+  "GENRE_NAME": "Science Fiction"
+}]

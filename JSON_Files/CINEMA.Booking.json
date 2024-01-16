@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "658c53e930a842998b848ed8"
+  },
+  "Booking_ID": "B001",
+  "NoOfSeats": 3,
+  "Show_ID": "S001",
+  "customer_id": "C001",
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "658c53e930a842998b848ed9"
+  },
+  "Booking_ID": "B002",
+  "NoOfSeats": 2,
+  "Show_ID": "S002",
+  "customer_id": "C002",
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "658c53e930a842998b848eda"
+  },
+  "Booking_ID": "B003",
+  "NoOfSeats": 4,
+  "Show_ID": "S003",
+  "customer_id": "C003",
+  "price": 200
+},
+{
+  "_id": {
+    "$oid": "658c53e930a842998b848edb"
+  },
+  "Booking_ID": "B004",
+  "NoOfSeats": 1,
+  "Show_ID": "S004",
+  "customer_id": "C004",
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "658c53e930a842998b848edc"
+  },
+  "Booking_ID": "B005",
+  "NoOfSeats": 5,
+  "Show_ID": "S005",
+  "customer_id": "C005",
+  "price": 250
+},
+{
+  "_id": {
+    "$oid": "658c53e930a842998b848edd"
+  },
+  "Booking_ID": "B006",
+  "NoOfSeats": 3,
+  "Show_ID": "S006",
+  "customer_id": "C006",
+  "price": 180
+},
+{
+  "_id": {
+    "$oid": "658c53e930a842998b848ede"
+  },
+  "Booking_ID": "B007",
+  "NoOfSeats": 2,
+  "Show_ID": "S007",
+  "customer_id": "C007",
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "658c53e930a842998b848edf"
+  },
+  "Booking_ID": "B008",
+  "NoOfSeats": 4,
+  "Show_ID": "S008",
+  "customer_id": "C008",
+  "price": 220
+},
+{
+  "_id": {
+    "$oid": "658c53e930a842998b848ee0"
+  },
+  "Booking_ID": "B009",
+  "NoOfSeats": 1,
+  "Show_ID": "S009",
+  "customer_id": "C009",
+  "price": 60
+},
+{
+  "_id": {
+    "$oid": "658c53e930a842998b848ee1"
+  },
+  "Booking_ID": "B010",
+  "NoOfSeats": 5,
+  "Show_ID": "S010",
+  "customer_id": "C010",
+  "price": 280
+}]
